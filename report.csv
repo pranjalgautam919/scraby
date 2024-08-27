@@ -1,0 +1,85 @@
+No,Product Title,Price,Rating,Product URL,Availability
+1,"Error: Message: Unable to locate element: .a-size-medium.a-color-base.a-text-normal; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+",,,,
+2,"Error: Message: Unable to locate element: .a-size-medium.a-color-base.a-text-normal; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+",,,,
+3,"Error: Message: Unable to locate element: .a-size-medium.a-color-base.a-text-normal; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+",,,,
+4,Apple iPhone 15 (128 GB) - Black,"70,499",,https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo4NjM2NTQ5MzQzMjg1NTMxOjE3MjQ3NDM1ODM6c3BfYXRmOjMwMDA1NDM0NTk0NzYzMjo6MDo6&url=%2FApple-iPhone-15-128-GB%2Fdp%2FB0CHX1W1XY%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.8-aKrERwPzdGyJWfWOa56O2yDcolF6kjNajUNykMKg82jxaiHGLt-9jMmKFSoG5OqiIDAjBzquOZzRUnhDQXOGqouoKUq8M-65-fMWUPbqz-jVX0npGuiaFQuKsn4jhzVUwciC1qgKTf8HXbmTLSbY5-9uHJy2ahuHpv4vILcbsVtnfiQYlaM1rkPZd76CuztTAvVLOzaod_PYYQydYtXLIhy4pw-4A2yx1IN9jP5qE.rSquKFurcy7noIYfoqHN9v6Xj90eS6R6Jlrz9L-10rY%26dib_tag%3Dse%26keywords%3Diphone%2B15%26qid%3D1724743582%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1,Unavailable
+5,Apple iPhone 15 Pro Max (1 TB) - White Titanium,"1,89,400",,https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo4NjM2NTQ5MzQzMjg1NTMxOjE3MjQ3NDM1ODM6c3BfYXRmOjMwMDA1NDM0NTk1MjAzMjo6MDo6&url=%2FApple-iPhone-15-Pro-Max%2Fdp%2FB0CHX1XQQ8%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.8-aKrERwPzdGyJWfWOa56O2yDcolF6kjNajUNykMKg82jxaiHGLt-9jMmKFSoG5OqiIDAjBzquOZzRUnhDQXOGqouoKUq8M-65-fMWUPbqz-jVX0npGuiaFQuKsn4jhzVUwciC1qgKTf8HXbmTLSbY5-9uHJy2ahuHpv4vILcbsVtnfiQYlaM1rkPZd76CuztTAvVLOzaod_PYYQydYtXLIhy4pw-4A2yx1IN9jP5qE.rSquKFurcy7noIYfoqHN9v6Xj90eS6R6Jlrz9L-10rY%26dib_tag%3Dse%26keywords%3Diphone%2B15%26qid%3D1724743582%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1,Unavailable
+6,Apple iPhone 15 (128 GB) - Black,"70,499",,https://www.amazon.in/Apple-iPhone-15-128-GB/dp/B0CHX1W1XY/ref=sr_1_3?dib=eyJ2IjoiMSJ9.8-aKrERwPzdGyJWfWOa56O2yDcolF6kjNajUNykMKg82jxaiHGLt-9jMmKFSoG5OqiIDAjBzquOZzRUnhDQXOGqouoKUq8M-65-fMWUPbqz-jVX0npGuiaFQuKsn4jhzVUwciC1qgKTf8HXbmTLSbY5-9uHJy2ahuHpv4vILcbsVtnfiQYlaM1rkPZd76CuztTAvVLOzaod_PYYQydYtXLIhy4pw-4A2yx1IN9jP5qE.rSquKFurcy7noIYfoqHN9v6Xj90eS6R6Jlrz9L-10rY&dib_tag=se&keywords=iphone+15&qid=1724743582&sr=8-3,Unavailable
+7,Apple iPhone 15 (128 GB) - Blue,"70,499",,https://www.amazon.in/Apple-iPhone-15-128-GB/dp/B0CHX2F5QT/ref=sr_1_4?dib=eyJ2IjoiMSJ9.8-aKrERwPzdGyJWfWOa56O2yDcolF6kjNajUNykMKg82jxaiHGLt-9jMmKFSoG5OqiIDAjBzquOZzRUnhDQXOGqouoKUq8M-65-fMWUPbqz-jVX0npGuiaFQuKsn4jhzVUwciC1qgKTf8HXbmTLSbY5-9uHJy2ahuHpv4vILcbsVtnfiQYlaM1rkPZd76CuztTAvVLOzaod_PYYQydYtXLIhy4pw-4A2yx1IN9jP5qE.rSquKFurcy7noIYfoqHN9v6Xj90eS6R6Jlrz9L-10rY&dib_tag=se&keywords=iphone+15&qid=1724743582&sr=8-4,Unavailable
+8,Apple iPhone 15 (128 GB) - Green,"69,999",,https://www.amazon.in/Apple-iPhone-15-128-GB/dp/B0CHX6NQMD/ref=ice_ac_b_dpb?dib=eyJ2IjoiMSJ9.8-aKrERwPzdGyJWfWOa56O2yDcolF6kjNajUNykMKg82jxaiHGLt-9jMmKFSoG5OqiIDAjBzquOZzRUnhDQXOGqouoKUq8M-65-fMWUPbqz-jVX0npGuiaFQuKsn4jhzVUwciC1qgKTf8HXbmTLSbY5-9uHJy2ahuHpv4vILcbsVtnfiQYlaM1rkPZd76CuztTAvVLOzaod_PYYQydYtXLIhy4pw-4A2yx1IN9jP5qE.rSquKFurcy7noIYfoqHN9v6Xj90eS6R6Jlrz9L-10rY&dib_tag=se&keywords=iphone+15&qid=1724743582&sr=8-5,Unavailable
+9,Apple iPhone 15 (128 GB) - Blue,"70,499",,https://aax-eu.amazon.in/x/c/JK_WxErgAvqZQ4YW9ZLJuaEAAAGRkrqFnwMAAAH2AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDEgICAB6Tkx/https://www.amazon.in/dp/B0CHX2F5QT?pd_rd_i=B0CHX2F5QT&pf_rd_p=3be3fb3e-0f2b-4eeb-88e5-5121210c18da&pf_rd_r=H82ADS4ZTVR33VXEBCHN&pd_rd_wg=S8UST&pd_rd_w=H4bZp&pd_rd_r=96766491-a4e4-4cda-96bf-41d3e97539ad,Unavailable
+10,"Error: Message: Unable to locate element: .a-size-medium.a-color-base.a-text-normal; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+",,,,
+11,"Error: Message: Unable to locate element: .a-price-whole; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+",,,,
+12,Apple iPhone 15 (128 GB) - Pink,"71,290",,https://www.amazon.in/Apple-iPhone-15-128-GB/dp/B0CHX3TW6X/ref=sr_1_7?dib=eyJ2IjoiMSJ9.8-aKrERwPzdGyJWfWOa56O2yDcolF6kjNajUNykMKg82jxaiHGLt-9jMmKFSoG5OqiIDAjBzquOZzRUnhDQXOGqouoKUq8M-65-fMWUPbqz-jVX0npGuiaFQuKsn4jhzVUwciC1qgKTf8HXbmTLSbY5-9uHJy2ahuHpv4vILcbsVtnfiQYlaM1rkPZd76CuztTAvVLOzaod_PYYQydYtXLIhy4pw-4A2yx1IN9jP5qE.rSquKFurcy7noIYfoqHN9v6Xj90eS6R6Jlrz9L-10rY&dib_tag=se&keywords=iphone+15&qid=1724743582&sr=8-7,Unavailable
+13,Apple iPhone 15 (256 GB) - Green,"80,600",,https://www.amazon.in/Apple-iPhone-15-256-GB/dp/B0CHX41VNZ/ref=sr_1_8?dib=eyJ2IjoiMSJ9.8-aKrERwPzdGyJWfWOa56O2yDcolF6kjNajUNykMKg82jxaiHGLt-9jMmKFSoG5OqiIDAjBzquOZzRUnhDQXOGqouoKUq8M-65-fMWUPbqz-jVX0npGuiaFQuKsn4jhzVUwciC1qgKTf8HXbmTLSbY5-9uHJy2ahuHpv4vILcbsVtnfiQYlaM1rkPZd76CuztTAvVLOzaod_PYYQydYtXLIhy4pw-4A2yx1IN9jP5qE.rSquKFurcy7noIYfoqHN9v6Xj90eS6R6Jlrz9L-10rY&dib_tag=se&keywords=iphone+15&qid=1724743582&sr=8-8,Unavailable
+14,Apple iPhone 15 (128 GB) - Yellow,"71,290",,https://www.amazon.in/Apple-iPhone-15-128-GB/dp/B0CHX7NG26/ref=sr_1_9?dib=eyJ2IjoiMSJ9.8-aKrERwPzdGyJWfWOa56O2yDcolF6kjNajUNykMKg82jxaiHGLt-9jMmKFSoG5OqiIDAjBzquOZzRUnhDQXOGqouoKUq8M-65-fMWUPbqz-jVX0npGuiaFQuKsn4jhzVUwciC1qgKTf8HXbmTLSbY5-9uHJy2ahuHpv4vILcbsVtnfiQYlaM1rkPZd76CuztTAvVLOzaod_PYYQydYtXLIhy4pw-4A2yx1IN9jP5qE.rSquKFurcy7noIYfoqHN9v6Xj90eS6R6Jlrz9L-10rY&dib_tag=se&keywords=iphone+15&qid=1724743582&sr=8-9,Unavailable
+15,Apple iPhone 15 (512 GB) - Blue,"1,00,600",,https://www.amazon.in/Apple-iPhone-15-512-GB/dp/B0CHXB1PT6/ref=sr_1_10?dib=eyJ2IjoiMSJ9.8-aKrERwPzdGyJWfWOa56O2yDcolF6kjNajUNykMKg82jxaiHGLt-9jMmKFSoG5OqiIDAjBzquOZzRUnhDQXOGqouoKUq8M-65-fMWUPbqz-jVX0npGuiaFQuKsn4jhzVUwciC1qgKTf8HXbmTLSbY5-9uHJy2ahuHpv4vILcbsVtnfiQYlaM1rkPZd76CuztTAvVLOzaod_PYYQydYtXLIhy4pw-4A2yx1IN9jP5qE.rSquKFurcy7noIYfoqHN9v6Xj90eS6R6Jlrz9L-10rY&dib_tag=se&keywords=iphone+15&qid=1724743582&sr=8-10,Unavailable
+16,Apple iPhone 15 Plus (128 GB) - Black,"79,999",,https://www.amazon.in/Apple-iPhone-15-Plus-128/dp/B0CHXCR9CX/ref=sr_1_11?dib=eyJ2IjoiMSJ9.8-aKrERwPzdGyJWfWOa56O2yDcolF6kjNajUNykMKg82jxaiHGLt-9jMmKFSoG5OqiIDAjBzquOZzRUnhDQXOGqouoKUq8M-65-fMWUPbqz-jVX0npGuiaFQuKsn4jhzVUwciC1qgKTf8HXbmTLSbY5-9uHJy2ahuHpv4vILcbsVtnfiQYlaM1rkPZd76CuztTAvVLOzaod_PYYQydYtXLIhy4pw-4A2yx1IN9jP5qE.rSquKFurcy7noIYfoqHN9v6Xj90eS6R6Jlrz9L-10rY&dib_tag=se&keywords=iphone+15&qid=1724743582&sr=8-11,Unavailable
+17,Apple iPhone 15 Pro (128 GB) - Natural Titanium,"1,28,200",,https://www.amazon.in/Apple-iPhone-15-Pro-128/dp/B0CHX7J4TL/ref=sr_1_12?dib=eyJ2IjoiMSJ9.8-aKrERwPzdGyJWfWOa56O2yDcolF6kjNajUNykMKg82jxaiHGLt-9jMmKFSoG5OqiIDAjBzquOZzRUnhDQXOGqouoKUq8M-65-fMWUPbqz-jVX0npGuiaFQuKsn4jhzVUwciC1qgKTf8HXbmTLSbY5-9uHJy2ahuHpv4vILcbsVtnfiQYlaM1rkPZd76CuztTAvVLOzaod_PYYQydYtXLIhy4pw-4A2yx1IN9jP5qE.rSquKFurcy7noIYfoqHN9v6Xj90eS6R6Jlrz9L-10rY&dib_tag=se&keywords=iphone+15&qid=1724743582&sr=8-12,Unavailable
+18,Apple iPhone 15 (512 GB) - Pink,"1,00,600",,https://www.amazon.in/Apple-iPhone-15-512-GB/dp/B0CHWWNKS6/ref=sr_1_13?dib=eyJ2IjoiMSJ9.8-aKrERwPzdGyJWfWOa56O2yDcolF6kjNajUNykMKg82jxaiHGLt-9jMmKFSoG5OqiIDAjBzquOZzRUnhDQXOGqouoKUq8M-65-fMWUPbqz-jVX0npGuiaFQuKsn4jhzVUwciC1qgKTf8HXbmTLSbY5-9uHJy2ahuHpv4vILcbsVtnfiQYlaM1rkPZd76CuztTAvVLOzaod_PYYQydYtXLIhy4pw-4A2yx1IN9jP5qE.rSquKFurcy7noIYfoqHN9v6Xj90eS6R6Jlrz9L-10rY&dib_tag=se&keywords=iphone+15&qid=1724743582&sr=8-13,Unavailable
+19,Apple iPhone 15 (512 GB) - Yellow,"1,00,600",,https://www.amazon.in/Apple-iPhone-15-512-GB/dp/B0CHX3QB9M/ref=sr_1_14?dib=eyJ2IjoiMSJ9.8-aKrERwPzdGyJWfWOa56O2yDcolF6kjNajUNykMKg82jxaiHGLt-9jMmKFSoG5OqiIDAjBzquOZzRUnhDQXOGqouoKUq8M-65-fMWUPbqz-jVX0npGuiaFQuKsn4jhzVUwciC1qgKTf8HXbmTLSbY5-9uHJy2ahuHpv4vILcbsVtnfiQYlaM1rkPZd76CuztTAvVLOzaod_PYYQydYtXLIhy4pw-4A2yx1IN9jP5qE.rSquKFurcy7noIYfoqHN9v6Xj90eS6R6Jlrz9L-10rY&dib_tag=se&keywords=iphone+15&qid=1724743582&sr=8-14,Unavailable
+20,Apple iPhone 15 Pro Max (256 GB) - Natural Titanium,"1,44,999",,https://www.amazon.in/Apple-iPhone-Pro-Max-256/dp/B0CHX68YG9/ref=sr_1_15?dib=eyJ2IjoiMSJ9.8-aKrERwPzdGyJWfWOa56O2yDcolF6kjNajUNykMKg82jxaiHGLt-9jMmKFSoG5OqiIDAjBzquOZzRUnhDQXOGqouoKUq8M-65-fMWUPbqz-jVX0npGuiaFQuKsn4jhzVUwciC1qgKTf8HXbmTLSbY5-9uHJy2ahuHpv4vILcbsVtnfiQYlaM1rkPZd76CuztTAvVLOzaod_PYYQydYtXLIhy4pw-4A2yx1IN9jP5qE.rSquKFurcy7noIYfoqHN9v6Xj90eS6R6Jlrz9L-10rY&dib_tag=se&keywords=iphone+15&qid=1724743582&sr=8-15,Unavailable
+21,Apple iPhone 15 Plus (128 GB) - Blue,"79,999",,https://www.amazon.in/Apple-iPhone-15-Plus-128/dp/B0CHX6X2WW/ref=sr_1_16?dib=eyJ2IjoiMSJ9.8-aKrERwPzdGyJWfWOa56O2yDcolF6kjNajUNykMKg82jxaiHGLt-9jMmKFSoG5OqiIDAjBzquOZzRUnhDQXOGqouoKUq8M-65-fMWUPbqz-jVX0npGuiaFQuKsn4jhzVUwciC1qgKTf8HXbmTLSbY5-9uHJy2ahuHpv4vILcbsVtnfiQYlaM1rkPZd76CuztTAvVLOzaod_PYYQydYtXLIhy4pw-4A2yx1IN9jP5qE.rSquKFurcy7noIYfoqHN9v6Xj90eS6R6Jlrz9L-10rY&dib_tag=se&keywords=iphone+15&qid=1724743582&sr=8-16,Unavailable
+22,"Error: Message: Unable to locate element: .a-price-whole; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+",,,,
+23,Apple iPhone 15 Plus (128 GB) - Pink,"79,999",,https://www.amazon.in/Apple-iPhone-15-Plus-128/dp/B0CHWYXK1R/ref=sr_1_18?dib=eyJ2IjoiMSJ9.8-aKrERwPzdGyJWfWOa56O2yDcolF6kjNajUNykMKg82jxaiHGLt-9jMmKFSoG5OqiIDAjBzquOZzRUnhDQXOGqouoKUq8M-65-fMWUPbqz-jVX0npGuiaFQuKsn4jhzVUwciC1qgKTf8HXbmTLSbY5-9uHJy2ahuHpv4vILcbsVtnfiQYlaM1rkPZd76CuztTAvVLOzaod_PYYQydYtXLIhy4pw-4A2yx1IN9jP5qE.rSquKFurcy7noIYfoqHN9v6Xj90eS6R6Jlrz9L-10rY&dib_tag=se&keywords=iphone+15&qid=1724743582&sr=8-18,Unavailable
+24,"Xiaomi 14 (White, 12GB RAM, 512GB Storage) | 50MP Leica Professional Optics | 120 Hz 1.5K LTPO AMOLED | SD 8 Gen 3 Hyper OS","69,999",,https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo4NjM2NTQ5MzQzMjg1NTMxOjE3MjQ3NDM1ODM6c3BfYnRmOjMwMDE0NDM5NjY0MzEzMjo6MDo6&url=%2FXiaomi-Storage-Professional-Optics-AMOLED%2Fdp%2FB0CW3H8YKD%2Fref%3Dsr_1_19_sspa%3Fdib%3DeyJ2IjoiMSJ9.8-aKrERwPzdGyJWfWOa56O2yDcolF6kjNajUNykMKg82jxaiHGLt-9jMmKFSoG5OqiIDAjBzquOZzRUnhDQXOGqouoKUq8M-65-fMWUPbqz-jVX0npGuiaFQuKsn4jhzVUwciC1qgKTf8HXbmTLSbY5-9uHJy2ahuHpv4vILcbsVtnfiQYlaM1rkPZd76CuztTAvVLOzaod_PYYQydYtXLIhy4pw-4A2yx1IN9jP5qE.rSquKFurcy7noIYfoqHN9v6Xj90eS6R6Jlrz9L-10rY%26dib_tag%3Dse%26keywords%3Diphone%2B15%26qid%3D1724743582%26sr%3D8-19-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1,Unavailable
+25,"Oneplus Open (Emerald Dusk, 16GB RAM, 512GB Storage)","1,39,999",,https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo4NjM2NTQ5MzQzMjg1NTMxOjE3MjQ3NDM1ODM6c3BfYnRmOjMwMDA3NzgxNjU5NDUzMjo6MDo6&url=%2FOneplus-Open-Emerald-512GB-Storage%2Fdp%2FB0CKTPK4FG%2Fref%3Dsr_1_20_sspa%3Fdib%3DeyJ2IjoiMSJ9.8-aKrERwPzdGyJWfWOa56O2yDcolF6kjNajUNykMKg82jxaiHGLt-9jMmKFSoG5OqiIDAjBzquOZzRUnhDQXOGqouoKUq8M-65-fMWUPbqz-jVX0npGuiaFQuKsn4jhzVUwciC1qgKTf8HXbmTLSbY5-9uHJy2ahuHpv4vILcbsVtnfiQYlaM1rkPZd76CuztTAvVLOzaod_PYYQydYtXLIhy4pw-4A2yx1IN9jP5qE.rSquKFurcy7noIYfoqHN9v6Xj90eS6R6Jlrz9L-10rY%26dib_tag%3Dse%26keywords%3Diphone%2B15%26qid%3D1724743582%26sr%3D8-20-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1,Unavailable
+26,"Samsung Galaxy M35 5G (Moonlight Blue,8GB RAM,128GB Storage)| Corning Gorilla Glass Victus+| AnTuTu Score 595K+ | Vapour Cooling Chamber | 6000mAh Battery | 120Hz Super AMOLED Display| Without Charger","21,499",,https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo4NjM2NTQ5MzQzMjg1NTMxOjE3MjQ3NDM1ODM6c3BfYnRmOjMwMDI5Nzk3MzM4ODgzMjo6MDo6&url=%2FSamsung-Moonlight-Storage-Corning-Gorilla%2Fdp%2FB0D813HQFN%2Fref%3Dsr_1_21_sspa%3Fdib%3DeyJ2IjoiMSJ9.8-aKrERwPzdGyJWfWOa56O2yDcolF6kjNajUNykMKg82jxaiHGLt-9jMmKFSoG5OqiIDAjBzquOZzRUnhDQXOGqouoKUq8M-65-fMWUPbqz-jVX0npGuiaFQuKsn4jhzVUwciC1qgKTf8HXbmTLSbY5-9uHJy2ahuHpv4vILcbsVtnfiQYlaM1rkPZd76CuztTAvVLOzaod_PYYQydYtXLIhy4pw-4A2yx1IN9jP5qE.rSquKFurcy7noIYfoqHN9v6Xj90eS6R6Jlrz9L-10rY%26dib_tag%3Dse%26keywords%3Diphone%2B15%26qid%3D1724743582%26sr%3D8-21-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1,Unavailable
+27,Apple iPhone 15 Pro (128 GB) - Black Titanium,"1,28,200",,https://aax-eu.amazon.in/x/c/JKcskZeckQ5jiIJXQkbGkckAAAGRkrqFmgMAAAH2AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDEgICAf4Af1/https://www.amazon.in/dp/B0CHX7V9TY?pd_rd_i=B0CHX7V9TY&pf_rd_p=a2bbbb64-48b4-4667-bc8e-161434209626&pf_rd_r=H82ADS4ZTVR33VXEBCHN&pd_rd_wg=Ahb4o&pd_rd_w=xghO1&pd_rd_r=3fea3c40-c904-4c41-bc0f-4eeb3a955224,Unavailable
+28,"Error: Message: Unable to locate element: .a-size-medium.a-color-base.a-text-normal; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+",,,,
+29,"Error: Message: Unable to locate element: .a-size-medium.a-color-base.a-text-normal; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+",,,,
+30,"Error: Message: Unable to locate element: .a-size-medium.a-color-base.a-text-normal; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+",,,,
